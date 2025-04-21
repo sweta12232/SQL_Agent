@@ -1,0 +1,6 @@
+google-generativeai
+pandas
+sqlalchemy
+jsonschema
+dotenv 
+os
